@@ -1,0 +1,33 @@
+#stoneTable{
+	border-style:solid;
+	border-width: 5px;
+	border-color: #ffffff;
+	background-color: #ffffff;
+	width: 500px;
+}
+#stoneTable th{background-color:#0345cc; color:#ffffff;}
+.stoneTabletd1{background-color:#205bd5; color:#ffffff;}
+.stoneTabletd2{background-color:#4c78d4; color:#ffffff;}
+.stoneTableInput{background-color:#ffffff; color:#000000;-webkit-appearance: none;  margin: 0;-moz-appearance: textfield;}
+#tableRaffinerie{border-style:solid;
+	border-width: 5px;
+	border-color: #ffffff;
+	width: 800px;
+}
+.tdRaffinerie{border-style:solid;
+	border-width: 5px;
+	border-color: #ffffff;
+}
+.best{color: #008000;}
+#flugTable{background-color:#000000;}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
