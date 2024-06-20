@@ -42,15 +42,91 @@
                 Wolf IT Solution
             </div>
             <div id="content">
-                <h1>This is a demo.</h1>
-                <p>Click the menu icon to open the menu.</p>
-                <p>Alle Funktionen sind nur nach Anmeldung einsehbar!</p>
+                <h1>
+                        Über Wolf IT Solution
+                </h1>
+                <p>
+                    Willkommen bei Wolf IT Solution – Ihrem zuverlässigen Partner für erstklassige IT-Dienstleistungen. Als Einmann-Unternehmen mit jahrelanger Erfahrung biete ich maßgeschneiderte Lösungen, die Ihre technischen Anforderungen übertreffen und Ihr Geschäft auf die nächste Stufe heben.
+                </p>
+
+            <h2>
+                Meine Mission
+            </h2>
+            <p>
+                Meine Mission ist es, innovative und effiziente IT-Dienstleistungen zu liefern, die Ihre Unternehmensprozesse optimieren und Ihre digitalen Ziele verwirklichen. Ich setze auf Qualität, Zuverlässigkeit und Kundenzufriedenheit, um Ihnen einen herausragenden Service zu bieten.
+            </p>
+
+            <h2>
+                Meine Dienstleistungen
+            </h2>
+            <h3>
+                Webdesign
+            </h3>
+            <p>
+                Ich gestalte ansprechende und benutzerfreundliche Webseiten, die nicht nur ästhetisch ansprechend, sondern auch funktional und reaktionsschnell sind. Meine Designs sind darauf ausgelegt, Ihre Marke optimal zu repräsentieren und Ihre Zielgruppe zu begeistern.
+            </p>
+
+            <h3>
+                Webprogrammierung
+            </h3>
+            <p>
+                Von einfachen Webseiten bis hin zu komplexen Webanwendungen – ich erstelle individuelle Lösungen, die perfekt auf Ihre Geschäftsanforderungen zugeschnitten sind. Ich setze moderne Technologien ein, um leistungsstarke und sichere Anwendungen zu entwickeln.
+            </p>
+
+            <h3>
+                Tenant erstellen und verwalten
+            </h3>
+            <p>
+                Ich unterstütze Sie bei der Einrichtung und Verwaltung Ihrer Cloud-Tenants. Ich sorge dafür, dass Ihre Daten sicher, effizient und stets verfügbar sind. Mit meiner Hilfe können Sie die Vorteile der Cloud voll ausschöpfen.
+            </p>
+
+            <h3>
+                Netzwerk Strukturen erstellen und verwalten
+            </h3>
+            <p>
+                Ein stabiles und sicheres Netzwerk ist das Rückgrat jeder IT-Infrastruktur. Ich plane, implementiere und verwalte Netzwerke, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind. Mein Ziel ist es, Ihnen eine zuverlässige und performante Netzwerkumgebung zu bieten.
+            </p>
+
+            <h3>
+                Sicherheitsthemen und Monitoring mittels Checkmk
+            </h3>
+            <p>
+                Sicherheit und Überwachung sind für den reibungslosen Betrieb Ihrer IT-Systeme unerlässlich. Mit Checkmk biete ich Ihnen umfassende Monitoring-Lösungen, die Ihre Infrastruktur kontinuierlich überwachen und sicherstellen, dass alle Sicherheitsanforderungen erfüllt werden. So können Sie sich auf Ihr Kerngeschäft konzentrieren, während ich für die Sicherheit Ihrer IT sorge.
+            </p>
+
+            <h2>
+                Warum Wolf IT Solution?
+            </h2>
+            <p>
+                <strong>
+                    Erfahrung und Expertise:
+                </strong> 
+                Ich bin ein hochqualifizierter Fachmann mit umfassender Erfahrung in der IT-Branche. Ich bleibe stets auf dem neuesten Stand der Technik, um Ihnen die besten Lösungen zu bieten.
+            </p>
+            <p>
+                <strong>
+                    Kundenzentrierter Ansatz:
+                </strong> 
+                Bei mir steht der Kunde im Mittelpunkt. Ich nehme mir die Zeit, Ihre Bedürfnisse zu verstehen und maßgeschneiderte Lösungen zu entwickeln, die Ihren spezifischen Anforderungen gerecht werden.
+            </p>
+            <p>
+                <strong>
+                    Zuverlässigkeit und Qualität:
+                </strong> 
+                Ich lege großen Wert auf Zuverlässigkeit und Qualität in all meinen Dienstleistungen. Sie können sich darauf verlassen, dass ich Ihre Projekte termingerecht und in höchster Qualität liefere.
+            </p>
+
+            <p>
+                Kontaktieren Sie mich noch heute und erfahren Sie, wie Wolf IT Solution Ihre IT-Bedürfnisse erfüllen kann. Gemeinsam bringen wir Ihr Unternehmen voran!
+            </p>
+
+
             </div>
             <nav id="menu">
                 <div id="panel-menu">
                     <ul>
                         <li>
-                            <a href="http://dstuecki.bplaced.net/tools/index.php">Home</a>
+                            <a href="">Home</a>
                             <!--input type="checkbox" class="mm-toggle" />-->
                         </li>
                         <li>
@@ -60,10 +136,10 @@
                                 <li>
                                     <span>Mining</span>
                                     <ul>
-                                        <li><a href="http://dstuecki.bplaced.net/tools/index.php?link=stone&Quantainium=0&Gold=0&Bexalite=0&Taranite=0&Borase=0&Laranite=0&Agricium=0&Hephaestanite=0&Beryl=0&Titanium=0&Tungsten=0&Quartz=0&Copper=0&Iron=0&Corundum=0&Aluminum=0&Inert=100&GesamtMasse=5000">Steinrechner</a></li>
-                                        <li><a href="http://dstuecki.bplaced.net/tools/index.php?link=raffinierie">Raffinierie</a></li>
-                                        <li><a href="http://dstuecki.bplaced.net/tools/index.php?link=timerechner">Raffinierie Auftr&auml;ge</a></li>
-										<li><a href="http://dstuecki.bplaced.net/tools/index.php?link=fluege">Fl&uuml;ge</a></li>
+                                        <li><a href="">Steinrechner</a></li>
+                                        <li><a href="">Raffinierie</a></li>
+                                        <li><a href="">Raffinierie Auftr&auml;ge</a></li>
+										<li><a href="">Fl&uuml;ge</a></li>
                                     </ul>
                                 </li>
                              
@@ -72,8 +148,8 @@
                                 <li>
                                     <span>Salvage</span>
                                     <ul>
-                                        <li><a href="http://dstuecki.bplaced.net/tools/index.php?link=salvageships">Schiffe</a></li>
-                                        <li><a href="http://dstuecki.bplaced.net/tools/index.php?link=beute">Beute</a></li>
+                                        <li><a href="">Schiffe</a></li>
+                                        <li><a href="">Beute</a></li>
                                     </ul>
                                 </li>
                                 
@@ -90,7 +166,7 @@
                             </ul>
                         </li>
 						<li><a href="#">Lager</a></li>
-						<li><a href="https://erkul.games/live/ships" target="_blank">Schiffe</a></li>
+						<li><a href="" target="_blank">Schiffe</a></li>
 						<li><a href="#">Handel IN WORK!</a></li>
 						<li>
                             <span>Orga IN WORK!</span>
@@ -105,7 +181,7 @@
                                 </li>
                            </ul>
                         </li>
-						<li><a href="http://dstuecki.bplaced.net/tools/index.php?link=dev">Development</a></li>
+						<li><a href="">Development</a></li>
                     </ul>
                 </div>
 
