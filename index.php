@@ -39,7 +39,7 @@
         <div id="page">
             <div id="header">
                 <a href="#menu"><span></span></a>
-                Star Citzen Tools - ALPHA Build
+                Wolf IT Solution
             </div>
             <div id="content">
                 <h1>This is a demo.</h1>
