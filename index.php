@@ -141,47 +141,11 @@
                                         <li><a href=""></a></li>
                                         <li><a href=""></a></li>
                                     </ul>
-                                </li>
-                              
-							
-                                <!--<li><a href="#/">Space1</a></li>-->
-                                <li>
-                                    <span>Salvage</span>
-                                    <ul>
-                                        <li><a href="">Schiffe</a></li>
-                                        <li><a href="">Beute</a></li>
-                                    </ul>
-                                </li>
-                                
-                           
-                                <!--<li><a href="#/">Space1</a></li>-->
-                                <li>
-                                    <span>Mutlicrew IN WORK!</span>
-                                    <ul>
-                                        <li><a href="#">Salvage Ertrag Teiler</a></li>
-                                        <li><a href="#">Mining Ertrag Teiler</a></li>
-                                    </ul>
-                                </li>
-                                
+                                </li>                                
                             </ul>
                         </li>
-						<li><a href="#">Lager</a></li>
-						<li><a href="" target="_blank">Schiffe</a></li>
-						<li><a href="#">Handel IN WORK!</a></li>
-						<li>
-                            <span>Orga IN WORK!</span>
-                            <ul>
-                                <!--<li><a href="#/">Space1</a></li>-->
-                                <li>
-                                    <span>Aufträge</span>
-                                    <ul>
-                                        <li><a href="#">Transport</a></li>
-                                        <li><a href="#">Ressourcen Besorgung</a></li>
-                                    </ul>
-                                </li>
-                           </ul>
-                        </li>
-						<li><a href="">Development</a></li>
+						<li><a href="#">Kontakt</a></li>
+						<li><a href="">Impressum</a></li>
                     </ul>
                 </div>
 
@@ -253,7 +217,7 @@
                             content: [
                                 '<a href="#panel-menu"><i class="fa fa-bars"></i> <span>Menu</span></a>',
                                 '<a href="#panel-account"><i class="fa fa-user"></i> <span>Account</span></a>',
-                                '<a href="#panel-cart"><i class="fa fa-shopping-cart"></i> <span>Cart</span></a>',
+                                '<a href="#panel-cart"><i class="fa fa-shopping-cart"></i> <span>Support</span></a>',
                             ],
                         },
                         {
