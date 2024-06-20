@@ -23,11 +23,6 @@
                 }
             }
         </style>
-		<!--<script type="text/javascript">
-			function stone(){
-				var quan = document.getElementById('Quantainium').value;
-				
-		</script>-->
     </head>
 
     <body>
@@ -139,12 +134,11 @@
                             <ul>
                                 <!--<li><a href="#/">Space1</a></li>-->
                                 <li>
-                                    <span>Mining</span>
+                                    <span>&Uuml;ber mich</span>
                                     <ul>
-                                        <li><a href="">Steinrechner</a></li>
-                                        <li><a href="">Raffinierie</a></li>
-                                        <li><a href="">Raffinierie Auftr&auml;ge</a></li>
-										<li><a href="">Fl&uuml;ge</a></li>
+                                        <li><a href="">&Uuml;ber mich</a></li>
+                                        <li><a href="">Zertifikate</a></li>
+                                        <li><a href="">Projekte</a></li>
                                     </ul>
                                 </li>
                              
