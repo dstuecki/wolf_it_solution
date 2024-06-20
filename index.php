@@ -40,7 +40,7 @@
             <div id="header">
                 <a href="#menu"><span></span></a>
                 Wolf IT Solution
-            </div>
+            </div> 
             <div id="content">
                 <h1>
                         Über Wolf IT Solution
