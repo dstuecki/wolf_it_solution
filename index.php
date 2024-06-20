@@ -130,18 +130,19 @@
                             <!--input type="checkbox" class="mm-toggle" />-->
                         </li>
                         <li>
-                            <span>Tools</span>
+                            <span>Über mich</span>
                             <ul>
-                                <!--<li><a href="#/">Space1</a></li>-->
+                                <li><a href="#/">About me</a></li>
+                                <li><a href="#/">Zertifikate</a></li>
                                 <li>
-                                    <span>&Uuml;ber mich</span>
+                                    <span>Projekte</span>
                                     <ul>
-                                        <li><a href="">&Uuml;ber mich</a></li>
-                                        <li><a href="">Zertifikate</a></li>
-                                        <li><a href="">Projekte</a></li>
+                                        <li><a href=""></a></li>
+                                        <li><a href=""></a></li>
+                                        <li><a href=""></a></li>
                                     </ul>
                                 </li>
-                             
+                              
 							
                                 <!--<li><a href="#/">Space1</a></li>-->
                                 <li>
